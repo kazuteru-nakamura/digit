@@ -1,0 +1,9 @@
+C:\Repos\DigitCalculator\DigitCalculator\bin\Debug\DigitCalculator.exe.config
+C:\Repos\DigitCalculator\DigitCalculator\bin\Debug\DigitCalculator.exe
+C:\Repos\DigitCalculator\DigitCalculator\bin\Debug\DigitCalculator.pdb
+C:\Repos\DigitCalculator\DigitCalculator\obj\Debug\DigitCalculator.csprojAssemblyReference.cache
+C:\Repos\DigitCalculator\DigitCalculator\obj\Debug\DigitCalculator.Form1.resources
+C:\Repos\DigitCalculator\DigitCalculator\obj\Debug\DigitCalculator.Properties.Resources.resources
+C:\Repos\DigitCalculator\DigitCalculator\obj\Debug\DigitCalculator.csproj.GenerateResource.cache
+C:\Repos\DigitCalculator\DigitCalculator\obj\Debug\DigitCalculator.exe
+C:\Repos\DigitCalculator\DigitCalculator\obj\Debug\DigitCalculator.pdb
